@@ -13,7 +13,7 @@
 7. So for the first time, just enter `y` then the `project-name`, and choose `react` and then just choose the `javascript` variant
 8. use `cd project-name`
 9. run `npm run dev`
-10. open the link in the browser
+10. open the given link by vite in the terminal in your browser
 
 
 ### Pros & Cons
